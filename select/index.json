@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と生きる",
+  "base_artist": "日向坂46",
+  "createdAt": "2026-02-20T12:16:33.245390Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と生きる",
+      "artist": "日向坂46",
+      "has_synced": false,
+      "path": "select/pl_01_君と生きる_日向坂46.txt"
+    }
+  ]
+}
